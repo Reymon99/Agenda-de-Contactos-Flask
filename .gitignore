@@ -1,0 +1,13 @@
+.idea/$PRODUCT_WORKSPACE_FILE$
+.idea/.gitignore
+.idea/contactos.iml
+.idea/dataSources.xml
+.idea/dataSources/
+.idea/dictionaries/
+.idea/inspectionProfiles/
+.idea/misc.xml
+.idea/modules.xml
+.idea/sqldialects.xml
+.idea/vcs.xml
+__pycache__/
+venv/
